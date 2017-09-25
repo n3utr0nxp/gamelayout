@@ -4,7 +4,7 @@ body {
 }
 
 #hero {
-    background: url('/assets/bg.jpg');
+    background: url('/assets/screen1.jpg');
     background-size: cover;
     background-position: 0 60%;
 }
@@ -52,4 +52,17 @@ h1 {
 
 .hero-img {
     width: 80%;
+}
+
+.feature-wrapper {
+    color: #000;
+}
+
+#join-container {
+    background: url('/assests/bg.jpg') no-repeat;
+    background-size: cover;
+
+    h2 {
+        letter-spacing: 4px;
+    }
 }
